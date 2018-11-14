@@ -1,0 +1,14 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C7,C6,C4,C5";"C_0402";4;"100n";;;
+2;"Q1";"SOT416";1;"BC846";;;
+3;"U2";"LCD-F-91W";1;"LCD-F-91W";;;
+4;"C2,C3";"C_0402";2;"22p";;;
+5;"C1";"C_0402";1;"4.7u";;;
+6;"U1";"QFN-64-1EP_9x9mm_Pitch0.5mm";1;"MSP430FR6972";;;
+7;"P7,P15,P1,P2,P8,P9,P14,P6,P11,P10,P5,P3,P4,P13";"1pin";14;"CONN_01X01";;;
+8;"MH5,MH7,MH6,MH2,MH3,MH4,MH1";"1pin";7;"1pin";;;
+9;"R2";"R_0402";1;"47k";;;
+10;"R1";"R_0402";1;"10k";;;
+11;"R3";"R_0402";1;"100";;;
+12;"U3";"TSOP57xxx";1;"TSOP57xxx";;;
+13;"U4";"LIS3MDL";1;"LIS3MDLTR";;;

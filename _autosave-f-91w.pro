@@ -1,4 +1,4 @@
-update=Mon 12 Nov 2018 06:26:26 PM MST
+update=Mon 12 Nov 2018 08:45:05 PM MST
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,11 +23,9 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
-LibDir=LIS3MDLTR
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,5 +56,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=f-91w
-LibName31=LIS3MDLTR/LIS3MDLTR
+[general]
+version=1
